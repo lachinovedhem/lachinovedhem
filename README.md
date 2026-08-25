@@ -22,6 +22,11 @@ What I can show is written up properly instead:
 Problem, architectural decision, outcome and stack for each system — with the mechanism
 behind every number, so the figures can be argued with rather than taken on trust.
 
+### 🇩🇪 [alida → alidadeutsch.simpler.az](https://alidadeutsch.simpler.az/)
+
+A German study app I built for myself — vocabulary, grammar, flashcards, pronunciation.
+React 19 + Vite, no backend, works offline as a PWA. [Source here.](https://github.com/lachinovedhem/german-booklet)
+
 ---
 
 **Daily:** C# · .NET 10 · ASP.NET Core · Minimal API · Native AOT · gRPC · EF Core · Dapper ·
