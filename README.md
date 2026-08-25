@@ -14,8 +14,10 @@ systems over eight years — most of them still running, most of them closed sou
   and so AI-generated code stays inside the architecture rules.
 
 **Why this profile is quiet:** almost everything I have built is either an employer's
-intellectual property or a certified commercial product, so it cannot be published here.
-What I can show is written up properly instead:
+intellectual property or a certified commercial product. The
+[Simple ERP](https://github.com/simpler-az) repositories are private by design and will stay
+that way — it is a licensed, state-certified product with a fiscal path in it. What I can show
+is written up properly instead:
 
 ### 📄 [Portfolio → lachinovedhem.github.io](https://lachinovedhem.github.io)
 
@@ -26,6 +28,12 @@ behind every number, so the figures can be argued with rather than taken on trus
 
 A German study app I built for myself — vocabulary, grammar, flashcards, pronunciation.
 React 19 + Vite, no backend, works offline as a PWA. [Source here.](https://github.com/lachinovedhem/german-booklet)
+
+### 🎓 [Teaching → youtube.com/@elachinov](https://www.youtube.com/@elachinov)
+
+Five recorded course series I ran live for my team — [SQL](https://www.youtube.com/playlist?list=PLuBzlr1yovEdV5u4NQwYZFOB5J1tZIObv),
+[REST API](https://www.youtube.com/playlist?list=PLuBzlr1yovEcvEqYSlsHpyGzk8LtqKU1r), and three on the product itself.
+Recorded so people could go over a topic at home rather than ask twice. In Azerbaijani.
 
 ---
 
