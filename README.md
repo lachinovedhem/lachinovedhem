@@ -29,6 +29,7 @@ the language.
 | **[parent-child-sync](https://github.com/lachinovedhem/parent-child-sync)** | Offline-first synchronisation between a centre and many nodes — watermark deltas, tombstones for deletes, idempotent replay. A store keeps selling while the network is gone and reconciles when it returns. |
 | **[sql-table-sync](https://github.com/lachinovedhem/sql-table-sync)** | Table replication driven by a configuration table: adding a synced table is a row, not a release. |
 | **[sql-drilldown-reports](https://github.com/lachinovedhem/sql-drilldown-reports)** | Self-describing report rows — each row names the report that opens when you tap it, so an entire drill-down hierarchy is metadata instead of screens. |
+| **[central-auth](https://github.com/lachinovedhem/central-auth)** | Single sign-on and authorization where permissions are **values on a tree**, not role names — so a numeric `0` is a grant. Short-lived AES-GCM tokens scoped to one service, AD/LDAP/local login, append-only audit. Put through an adversarial security audit; the four confirmed defects are fixed and proved in the demo. |
 | **[standards-mcp](https://github.com/lachinovedhem/standards-mcp)** | An MCP server that serves coding standards and checklists to AI agents. |
 
 ### 📄 [Portfolio → lachinovedhem.github.io](https://lachinovedhem.github.io)
